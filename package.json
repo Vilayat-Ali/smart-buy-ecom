@@ -1,0 +1,13 @@
+{
+  "name": "smart-buy",
+  "version": "1.0.0",
+  "description": "A ML based smart ecommerce application",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "husky": "^9.0.10"
+  },
+  "scripts": {
+    "prepare": "husky"
+  }
+}
